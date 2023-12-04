@@ -1,4 +1,6 @@
-### Hi there 👋
+### Henri Pätsi
+
+Currently studying at [Hive Helsinki](https://www.hive.fi).
 
 <!--
 **henpatsi/henpatsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
