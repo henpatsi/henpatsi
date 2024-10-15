@@ -1,6 +1,8 @@
 ### Henri Pätsi
 
-Currently studying at [Hive Helsinki](https://www.hive.fi). I like to participate in game jams whenever I have time, and you can play my jam games on [itch.io](https://tupperwarefan.itch.io/).
+Currently studying at [Hive Helsinki](https://www.hive.fi).
+
+I like to participate in game jams whenever I have time, and you can play my jam games on [itch.io](https://tupperwarefan.itch.io/).
 
 <!--
 **henpatsi/henpatsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
